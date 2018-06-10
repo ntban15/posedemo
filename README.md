@@ -1,6 +1,6 @@
 # POSE demo
 
-A demonstration of a shape-shifting login button powered by [Popmotion POSE](https://popmotion.io/pose/).
+Demonstration of a shape-shifting login button powered by [Popmotion POSE](https://popmotion.io/pose/).
 
 ## Demo
 
